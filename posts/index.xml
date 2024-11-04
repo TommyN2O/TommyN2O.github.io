@@ -17,10 +17,12 @@
             <guid>http://localhost:1313/posts/2024/11/my-first-post/</guid>
             <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
 &lt;p&gt;This is my first post with an image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;A description of the image&#34; src=&#34;http://localhost:1313/images/1st.jpg&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;A description of the image&#34; src=&#34;http://localhost:1313/images/1st.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Here is some more text below the image.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<h1 id="hello-world">Hello World!</h1>
 <p>This is my first post with an image.</p>
 <p><img alt="A description of the image" src="/images/1st.jpg"></p>
+<p>Here is some more text below the image.</p>
 ]]></content>
         </item>
         
