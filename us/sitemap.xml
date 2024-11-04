@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/us/categories/</loc>
+    <loc>https://TommyN2O.github.io/us/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://TommyN2O.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="http://localhost:1313/us/categories/"
+                href="https://TommyN2O.github.io/us/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/us/series/</loc>
+    <loc>https://TommyN2O.github.io/us/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://TommyN2O.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="http://localhost:1313/us/series/"
+                href="https://TommyN2O.github.io/us/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/us/tags/</loc>
+    <loc>https://TommyN2O.github.io/us/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://TommyN2O.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="http://localhost:1313/us/tags/"
+                href="https://TommyN2O.github.io/us/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/us/</loc>
+    <loc>https://TommyN2O.github.io/us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://TommyN2O.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="us"
-                href="http://localhost:1313/us/"
+                href="https://TommyN2O.github.io/us/"
                 />
   </url>
 </urlset>
