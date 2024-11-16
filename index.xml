@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TommyN2O</title>
-    <link>http://localhost:1313/</link>
+    <link>https://TommyN2O.github.io/</link>
     <description>Recent content on TommyN2O</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 16 Nov 2024 22:28:55 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://TommyN2O.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pirmas Postas</title>
-      <link>http://localhost:1313/posts/2024/11/pirmas-postas/</link>
+      <link>https://TommyN2O.github.io/posts/2024/11/pirmas-postas/</link>
       <pubDate>Sat, 16 Nov 2024 22:28:55 +0200</pubDate>
-      <guid>http://localhost:1313/posts/2024/11/pirmas-postas/</guid>
-      <description>&lt;p&gt;Šis yra pirmasis postas mano Hugo tinklalapyje!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;A description of the image&#34; src=&#34;http://localhost:1313/images/1post.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://TommyN2O.github.io/posts/2024/11/pirmas-postas/</guid>
+      <description>&lt;p&gt;Šis yra pirmasis postas mano Hugo tinklalapyje!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;A description of the image&#34; src=&#34;https://TommyN2O.github.io/images/1post.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
